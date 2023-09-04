@@ -4,3 +4,8 @@ ls ls -al, pwd, cd .git, cd ..
 git command
 git init, git add, git config --global user.email "mail", git config --global user.name "name",
 git commit -m v0 
+git log 
+git checkout
+git checkout-
+git branch -M main
+git remote -v
