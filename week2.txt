@@ -1,0 +1,6 @@
+week2
+linux command- 
+ls ls -al, pwd, cd .git, cd ..
+git command
+git init, git add, git config --global user.email "mail", git config --global user.name "name",
+git commit -m v0 
